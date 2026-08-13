@@ -1,7 +1,3 @@
-## OUTPUTS Screens : 
-
-<img width="1896" height="722" alt="Screenshot 2026-08-13 225412" src="https://github.com/user-attachments/assets/e00e66d2-0d30-4945-ab63-47b96e86e7a1" />
-<img width="1895" height="962" alt="Screenshot 2026-08-13 225732" src="https://github.com/user-attachments/assets/ad1b13f8-c53c-480c-bf6a-4d0ed38e2fa1" />
 
 # Internal Tables – Standard and Sorted
 
@@ -46,11 +42,11 @@ The output demonstrates how the data is handled using each internal table.
 
 ### Selection Screen
 
-<!-- Add your selection screen screenshot here -->
+<img width="1896" height="722" alt="Screenshot 2026-08-13 225412" src="https://github.com/user-attachments/assets/e00e66d2-0d30-4945-ab63-47b96e86e7a1" />
 
 ### Program Output
 
-<!-- Add your output screenshot here -->
+<img width="1895" height="962" alt="Screenshot 2026-08-13 225732" src="https://github.com/user-attachments/assets/ad1b13f8-c53c-480c-bf6a-4d0ed38e2fa1" />
 
 ## What I Learned
 
