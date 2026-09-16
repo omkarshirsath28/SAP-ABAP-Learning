@@ -1,7 +1,7 @@
 
 
 ````markdown
-# Lecture 14 – Module Pool Programming and Employee Data Display
+# Lecture 23 and 24 – Module Pool Programming and Employee Data Display
 
 ## 📌 Topic
 
@@ -344,7 +344,7 @@ This program is part of my SAP ABAP learning journey and represents my practice 
 ---
 
 **Learning Status:** ✅ Completed
-**Lecture:** 14
+**Lecture:** 23 and 24
 **Topic:** Module Pool Programming and Employee Data Display
 
 
